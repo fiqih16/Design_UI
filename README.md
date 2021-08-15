@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+# Screenshot
+
+![Cuplikan layar 2021-08-15 213442](https://user-images.githubusercontent.com/75507906/129482251-d32793bb-3cd8-4845-876a-bf47efd67812.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
